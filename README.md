@@ -1,14 +1,30 @@
 ### 🌸 Hi, I'm Anastasia!
 
-🌱 Middle QA Engineer exploring manual and automated testing  
-🎓 Studying *Information Systems and Technologies* at SPbSUT (St. Petersburg)  
-📚 Completed QA courses, currently learning Selenium (Python & Java)
+🧪 QA Engineer with hands-on experience in web application and API testing  
+💼 Currently working as a QA Engineer Intern at X5 Group  
+🎓 B.Sc. in *Information Systems and Technologies* at SPbSUT  
+⚙️ Experienced in manual, functional, integration, and regression testing  
+🔌 Testing REST & GraphQL APIs using Postman and Apollo Sandbox  
+🤖 Building API autotests with Go and continuing to grow in test automation  
+🗄️ Working with SQL & PostgreSQL for data validation  
+🖤 I value product quality, clear requirements, well-structured test documentation, and clean processes
 
-🧪 Tools I use: Postman, Charles Proxy, DevTools, Jira, Selenium  
-🌐 Also learning: API testing, test design techniques, and basic automation  
-🖤 I value minimalism, clean documentation, and clear communication
+
+## 🛠️ QA & Tools:
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Allure](https://img.shields.io/badge/Allure-FF6A00?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 
-## 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## 💻 Programming:
 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
