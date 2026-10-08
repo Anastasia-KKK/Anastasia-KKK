@@ -1,7 +1,7 @@
 ### 🌸 Hi, I'm Anastasia!
 
 🧪 QA Engineer with hands-on experience in web application and API testing  
-💼 Currently working as a QA Engineer Intern at X5 Group  
+💼 Worked as a QA Engineer Intern at X5 Group  
 🎓 B.Sc. in *Information Systems and Technologies* at SPbSUT  
 ⚙️ Experienced in manual, functional, integration, and regression testing  
 🔌 Testing REST & GraphQL APIs using Postman and Apollo Sandbox  
